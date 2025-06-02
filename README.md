@@ -4,7 +4,7 @@
 A Flask web application to create, manage, and delete todo list activities.
 
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 Special thanks to [@alexroel] for their excellent course and guidance.
 
